@@ -1,0 +1,77 @@
+# HR Attrition Dashboard — Power BI
+
+## Project Overview
+Developed an interactive **Power BI HR Analytics Dashboard** using a dataset of **1,470 employee records**, analyzing **237 attrition cases (16.1% attrition rate)** to identify workforce trends and high-risk employee segments.
+
+## Objective
+The objective of this project is to uncover key drivers of employee attrition and provide actionable insights for HR teams to improve retention, workforce planning, and employee satisfaction.
+
+## Dataset Summary
+- **Total Employees:** 1,470  
+- **Attrition Cases:** 237  
+- **Attrition Rate:** 16.1%  
+- **Active Employees:** 1,233  
+- **Features:** 35 columns including age, department, job role, salary, satisfaction, and tenure  
+
+## Key Metrics & KPIs
+- **Average Monthly Income:** 6,503  
+- **Average Age:** 36.9 years  
+- **Average Job Satisfaction:** 2.73 / 4  
+- **Average Years at Company:** ~7 years  
+
+## Department-wise Attrition
+- **Research & Development:** 133 attrition cases (highest)  
+- **Sales:** 92 attrition cases  
+- **Human Resources:** 12 attrition cases (lowest)  
+
+## Dashboard Features
+- KPI cards displaying **total employees, attrition count, attrition rate, and averages**  
+- Department and role-based attrition comparison  
+- Age group and salary band analysis  
+- Satisfaction-level impact on attrition  
+- Clean **single-page dashboard design**  
+- Fully interactive **dynamic slicers** for:
+  - Department  
+  - Job Role  
+  - Gender  
+  - Age Group  
+  - Salary Band  
+
+## Data Preparation
+- Cleaned and validated **1,470 records**  
+- Removed inconsistencies and ensured correct data types  
+- Created derived columns:
+  - Age Bands  
+  - Salary Bands  
+  - Satisfaction Levels  
+
+## DAX Measures Implemented
+- Total Employees  
+- Attrition Count  
+- Attrition Rate  
+- Active Employees  
+- Average Salary  
+- Average Satisfaction  
+- Headcount Distribution  
+
+## Key Insights
+- Attrition rate stands at **16.1%**, indicating moderate workforce churn  
+- **R&D and Sales departments** contribute over **94% of total attrition**  
+- Employees with **lower job satisfaction (≤2)** show significantly higher attrition  
+- Mid-career employees (age ~30–40) form the largest workforce segment  
+- Salary and tenure show a strong correlation with retention trends  
+
+## Project Outcome
+This project demonstrates:
+- Strong capability in **data cleaning and transformation**  
+- Proficiency in **Power BI dashboard design**  
+- Hands-on experience with **DAX for KPI calculation**  
+- Ability to convert raw HR data into **actionable business insights**  
+
+## Files Included
+- HR Dataset (CSV)  
+- Power BI Dashboard (.pbix)  
+- Project Documentation (README)  
+
+## Purpose
+This project was developed as part of a **data analytics portfolio** to showcase skills in Power BI, data modeling, and HR analytics for **Data Analyst roles**.
