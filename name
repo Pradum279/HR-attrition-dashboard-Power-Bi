@@ -1,3 +1,7 @@
-HR Attrition Dashboard in Power BI  —  Power BI, DAX, Slicers, Visuals, KPI Cards GitHub
-Designed an interactive Power BI dashboard to analyze employee attrition across department, age group, salary band, and satisfaction level — identifying key retention risk patterns for HR decision-making.
-Built DAX measures and dynamic slicers to enable drill-down by department and role, presenting attrition rate, headcount trends, and satisfaction scores in a clean single-page layout.
+
+
+
+HR Attrition Dashboard in Power BI — Power BI, DAX, Slicers, Visuals, KPI Cards
+
+Built a Power BI dashboard on 1,470 records, analyzing 237 attrition cases (16.1%) to identify high-risk segments across department, role, age, salary, and satisfaction.
+Created 8+ DAX measures and 5+ slicers to deliver insights on attrition rate, 1,233 active employees, and key workforce trends in a single-page dashboard.
